@@ -1,0 +1,15 @@
+ what is the Purpose of Cookies ???
+-> Personalize a web site for user 
+   Keep track of urse perfrences
+	like favorite food,book and  place etc
+ What is Cookies?
+->Text data exchange between aeb browser and server
+  Web ->Cookies->Server
+
+ What it Contents?
+->Name /Value pair
+ Browser will only send cookies that match the servser's domain name
+
+ Cookies API Package
+-> Coookies class defined in the package:javax.servlet.http
+Package imported  for free in all JSp Pages 

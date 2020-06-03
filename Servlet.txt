@@ -1,0 +1,4 @@
+What is Servlet
+
+Java Class that is processed on the server and it generates HTML that is returned  to browser
+Can read HTML form data,use of cookies and session etc.Same like JSP

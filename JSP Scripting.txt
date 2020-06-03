@@ -1,0 +1,18 @@
+1)JSP Scription Elements?
+
+->There 3 Types of JSP Scription Elements
+	a]JSP Expressionn <%= Some Java Expression %>
+	b]JSp scriptlet   <% Some Java Code: 1 many Lines%>
+	c]JSP Declaration <%! variable or method declaration %>
+2)Built-In Server objects
+
+-> request:Contain HTTP rquest header and from data
+   response:provdes HTTP support for sending response
+   out:JspWriter for including content in HTML page
+   session:Unique session for each user of the web application
+   application:Shared data for all usserr of the web applicationnt
+
+3)to use common header and footer for all page .
+-> This is use to use Common header and footer for the same page 
+
+	<jsp:include page="my-header.jsp"></jsp:include>

@@ -1,0 +1,6 @@
+ what is JSTL??
+-> JSP Standard Tag Library(JSTL)
+   type: Core,Messages Formatting,Functions,XML,SQL 
+
+IMP wild useing JSTL core
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>

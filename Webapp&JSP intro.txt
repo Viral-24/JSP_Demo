@@ -1,0 +1,30 @@
+1)What is web application??
+
+-->A web site where HTML page are generated dynamically
+   Based onn the user's action
+		    ->Request	   ->Database
+	Web Browser  	Web Server 	Database
+	   HTML Page<-       Result<-
+2)What are JSP & Server?
+
+-> 1]Java code that run on web server.
+   2]Read user's action ... normally from HTML Form.
+   3]Performs the work
+   4]Return an HTML page that is generated dynamically.
+	
+	JSP Work on Servlets and return something
+
+3)In Web Servser?
+
+->There is JSP & Servser.
+
+4)What type of web app can be create?
+
+->Any Industry,E-commerce,Studing,Employee tracking,Hotel,Social Media and many more no limit
+
+5)What are the Key Buliding Blocks
+
+->JSP & Servlets are components of Java EE(Enterprice Edition)
+  Popular MVC Farmeworks are actually built on top of JSP & servlets
+	Spring,JSF,Struts
+
